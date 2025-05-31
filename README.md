@@ -12,7 +12,7 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/YourGitHubUsername/calling-jadoo.git  
+ git clone https://github.com/fahadcyberdev/Calling-Jadu__funny__app/tree/main 
 Open the project in your favorite code editor.
 Run the project on your local server or host it online.
 Interact by pressing keys and enjoy the sound effects!
