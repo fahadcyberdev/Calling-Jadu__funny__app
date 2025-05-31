@@ -33,5 +33,5 @@ function toggleFullScreen() {
   const promptKey = document.querySelector('.prompt-key');
   promptKey.innerHTML = "B C F E";
   promptKey.innerHTML += "\tB C E D";
-  promptKey.innerHTML += "\tB C F E D C";
+  promptKey.innerHTML += "\tB C F E D E";
 }
